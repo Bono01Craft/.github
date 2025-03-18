@@ -1,4 +1,4 @@
-<img src="https://github.com/Bono01Craft/.github/blob/main/profile/.images/bonocraft-logo.png" width="200">
+<img src="https://github.com/Bono01Craft/.github/blob/main/profile/.images/bonocraft-logo.png" width="200" align="center">
 
 # Welcome to BonoCraft
 
