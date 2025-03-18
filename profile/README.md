@@ -1,4 +1,4 @@
-![Logo](https://github.com/Bono01Craft/.github/blob/main/profile/.images/bonocraft-logo.png =250x250)
+<img src="https://github.com/Bono01Craft/.github/blob/main/profile/.images/bonocraft-logo.png" width="200">
 
 # Welcome to BonoCraft
 
