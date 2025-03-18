@@ -1,3 +1,5 @@
+![Logo](https://github.com/Bono01Craft/.github/blob/main/profile/.images/bonocraft-logo.png)
+
 # Welcome to BonoCraft
 
 BonoCraft is your ultimate container for Minecraft mod packs, integrating exciting mods like Cobblemon and Modern Industrialization to enhance your gaming experience.
